@@ -1,5 +1,3 @@
-
-//id, firstName, lastName, city,age, creditCardNumber
 export const users = [
     {
         id: 1,
@@ -54,7 +52,15 @@ export const users = [
         age: 20,
         salary: 15000,
         type: "employee"
+    },
+    {
+        id: 7,
+        firstName: "Yavuz",
+        lastName: "Mutlu",
+        city: "Kocaeli",
+        age: 27,
+        salary: 4000,
+        type: "amelee"
     }
 ]
 
-//23.05 Dersteyiz
